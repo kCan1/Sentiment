@@ -1,4 +1,6 @@
-fastapi
+fastapi[all]
 uvicorn[standard]
 transformers
 torch
+xformers
+pydantic
